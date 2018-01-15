@@ -56,6 +56,7 @@ taxonomy:
 | [Entities.findEntities(glm::vec3,float)](#m12) |
 | [Entities.findEntitiesInBox(glm::vec3,glm::vec3)](#m13) |
 | Entities.findEntitiesInFrustum(QVariantMap) |
+| Entities.findEntitiesByType(QString, glm::vec3, float;) |
 | [Entities.findRayIntersection(PickRay)](#m14) |
 | Entities.findRayIntersection(PickRay,bool) |
 | Entities.findRayIntersection(PickRay,bool,QScriptValue) |
